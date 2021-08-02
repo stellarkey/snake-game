@@ -11,8 +11,9 @@ snake game by console.
 # Version 2
 
 - Renew the pixels one by one (incremental updates)
+- Hide cursor
 
-
+![snakegame-v2](README/snakegame-v2.gif)
 
 # References
 
